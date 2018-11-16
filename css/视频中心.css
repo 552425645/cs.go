@@ -1,0 +1,174 @@
+.video-left{
+	background: none;
+	margin-top: -69px;
+	height: 2400px;
+}
+.video-title{
+	color: white;
+	font-size: 12px;
+	border-bottom: 0px;
+}
+.video-title a{
+	color: white;
+	font-size: 12px;
+}
+.video-left-top{
+	width: 100%;
+	height: 327px;
+	background: yellow;
+	margin-bottom: 22px;
+}
+.lunbo-small{
+	width: 534px;
+	height: 327px;
+	float: left;
+	overflow: hidden;
+	position: relative;
+}
+.lunbo-s-long{
+	width: 1602px;
+	height: 100%;
+	position: absolute;
+	left: 0;top: 0;
+}
+.lunbo-s-long li{
+	width: 534px;height: 327px;
+	float: left;
+	
+}
+.btnx{
+	height: 20px;
+	position: absolute;
+	left: 50px;
+	bottom: 20px;
+	z-index: 100;
+}
+.btnx a{
+	display: inline-block;
+	vertical-align: top;
+	width: 20px;
+	height: 20px;
+	border-radius: 10px;
+	background: #9d8c73;
+	margin-right: 20px;
+}
+.lunbo-right{
+	width: 308px;
+	height: 287px;
+	padding: 20px 16px;
+	float: right;
+	background: url(../img/新闻/recommend_bg.jpg) no-repeat;
+	
+}
+.lunbo-right h2{
+	width: 232px;
+	height: 22px;
+	background: url(../img/新闻/recommend_tit.png) no-repeat;
+}
+.hot-video{
+	width: 146px;
+	float: left;
+	margin: 0 4px;
+	margin-top: 24px;
+	margin-bottom: 24px;
+
+}
+.hot-video figure{
+	width: 146px;
+	height: 75px;
+	position: relative;
+	
+}
+.hot-video figure img{
+	width: 100%;
+	height: 100%;
+}
+#bofang{
+	width: 39px;
+	height: 39px;
+	position: absolute;
+	z-index: 10;
+	left: 50%;top: 50%;
+	margin-left: -20px;
+	margin-top: -20px;
+	background: url(../img/新闻/play_btn.png);
+}
+.hot-video figcaption{
+	width: 100%;
+	line-height: 20px;
+	font-size: 12px;
+	margin-top: 8px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	color: white;
+}
+.video-hot-tab{
+	width: 832px;
+	height: 236px;
+	padding-top: 28px;
+	padding-left: 42px;
+	background: white;
+}
+.video-hot-tab h2{
+	width: 135px;
+	height: 22px;
+	margin-bottom: 28px;
+	background: url(../img/新闻/hot_tab_tit.png) no-repeat;
+}
+.list-tab{
+	margin-bottom: 30px;
+	width:100% ;
+}
+.list-tab a{
+	display: inline-block;
+	vertical-align: middle;
+	width: 83px;
+	height: 38px;
+	background: url(../img/新闻/d_tab_bg.png);
+	text-align: center;
+	font-size: 14px;
+	line-height: 38px;
+	color: red;
+}
+.list-tab a:hover{
+	background:url(../img/新闻/d_tab_bg.png) #5D6E83;
+}
+.tab-box{
+	width: 100%;
+	line-height: 19px;
+	margin-bottom: 12px;
+	font-size: 14px;
+}
+.tab-box span{
+	margin-right: 15px;
+}
+.video-list li{
+	width: 182px;
+	height: 130px;
+	float: left;
+	margin: 0 5px;
+	margin-bottom: 30px;
+
+}
+.video-list figure{
+	width: 182px;
+	height: 110px;
+	position: relative;
+	
+}
+.video-list figure img{
+	width: 100%;
+	height: 100%;
+}
+.video-list figcaption{
+	width: 100%;
+	line-height: 20px;
+	font-size: 14px;
+	color: black;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	text-align: center;
+	margin-top: 12px;
+}
